@@ -1,74 +1,60 @@
 {
   "privacydata": [
     {
-      "info": "<a href='/' className='text-blue-500 hover:text-blue-600'>The Custom Websites</a>is devoted to maintaining privacy insurance for its users. Our <strong>Privacy Policy</strong> is composed to support you in making mindful decisions while using <strong>The Custom Websites</strong>and help you understand our way of collecting, using, and safeguarding your information. By <a href='/https://www.linkedin.com/company/the-custom-websites/' className='text-blue-500 hover:text-blue-600'> connecting with us via LinkedIn</a> or any third party or by accessing our Site or availing of our services, you agree to our Privacy Policy and your permission to collect, use and store your personal information as per the Privacy Policy.",
+      "info": "<a href='/' className='text-blue-500 hover:text-blue-600'>The Custom Websites</a> is devoted to maintaining privacy insurance for its users. Our <strong>Privacy Policy</strong> is composed to support you in making mindful decisions while using <strong>The Custom Websites</strong> and help you understand our way of collecting, using, and safeguarding your information. By <a href='/https://www.linkedin.com/company/the-custom-websites/' className='text-blue-500 hover:text-blue-600'> connecting with us via LinkedIn</a> or any third party or by accessing our Site or availing of our services, you agree to our Privacy Policy and your permission to collect, use and store your personal information as per the Privacy Policy.",
       "description": [
-{
-  "subheading": "Information We Gather",
-  "text": "We gather both “Personal” and “Non-Personal” data. Personal data include your name, phone number, resume, email, and other data, which we collect through your activities like signups, downloading content, applying to jobs through websites, etc. Non-Personal Data does not identify you personally, such as general statistical information, URLs, and exit pages, your preferences, etc."
-},
-{
-  "subheading": "Information We Collect Via Technology",
-  "text": "We strongly believe that <strong>'One Person Never Does Great Things In Business.</strong> A Team Of People Does Them'.",
-  "additionalText": [
-    "You do not need to submit your data while visiting our Site. However, to enhance the activity of our Site, we keep track of information that we get through our software application when you visit the website, the browser you use, the Site from which you come (referring URL), the device that you use, date and time data, and other routing data that is not connected to your data.",
-    "We keep track of this information using small text files or cookies, which possess unique identifiers or transparent pixel figures.",
-    "We send cookies to a user’s browser and are stored in the user’s hard drive.",
-    "We send cookies to a user’s computer to collect non-personal data, which helps us keep track of users’ preferences and choices while using our services.",
-    "The Company (the custom websites) may use both session and persistent cookies. Session cookies finish when you close your browser, while persistent cookies stay in your device even if you close the browser and you have to delete them manually.",
-    "There are features present on specific browsers (Mozilla, Chrome, Safari, Firefox, Internet Explorer) to limit cookies. You can restrict cookies using such features, but it can affect your activity while using the Site.",
-    "Check out the ‘Privacy’ article on your browser to manage and know more about cookies.",
-    "We may use certain services to gather data about your use of websites like Facebook Insights, Google Analytics, LinkedIn Insight Tags, HubSpot Analytics, or other third-party assistance.",
-    "The third party may collect specific data that include how often you visit our Site, what pages you like to see, and what other websites you visited before landing on our Site.",
-    "We never combine the data collected from a third party with any other data collected from you.",
-    "We collect this data to improve the quality of our website.",
-    "A permanent cookie is stored on your computer to recognize you as a unique individual when you visit the Site.",
-    "Only third-party service providers can use these cookies.",
-    "They use cookies according to terms mentioned at:",
-    {
-      "list": [
-"HubSpot Analytics",
-"LinkedIn Insight Tags",
-"Facebook Insights",
-"Google Analytics"
-      ]
-    }
-  ]
-},
-{
-"subheading": "Information You Provide Us",
-"text": "We collect information automatically through your browser when you visit our Site. In addition to this information, you have to make a personal profile to contact us via the website. Create a profile by inserting your email address or filling out a form. According to this Privacy Policy, you allow us to use, collect, and store your email and other data. We may collect data through emails or texts, proposals, or providing services."
-},
-{
-"subheading": "Children’s Privacy",
-"text": "The Services and our Site are not administered to anybody under 13. Our Site does not intentionally request or gather data from anybody under the age of 13. If we realize that we have supposed data without the permission of a guardian or parent, we delete that data as soon as possible. If you suspect that we have collected such data, reach us here.",
-"additionalText": "The Custom Websites ensures both the high quality and high value of our development services. The things that set us apart are the well-reputation and high-quality assurance. We promote the culture of improving skills and service-providing methodologies. Every member of our team constantly works to maintain the quality standards of our company. Clients can trust and rely on our companies’ services to establish and grow their business in the industry."
-},
-{
-"heading": "How We Share And Utilize Data",
-"subheading": "Personal Information",
-"text": "As mentioned in the Privacy Policy, we do not rent, sell, or trade your data without your consent with any Third-party. We provide your data to independent vendors and contractors who use your data for business purposes, and in a way, we tell them. Such vendors and contractors offer their quality services to the Company and can be trusted. Personal data is used to connect and communicate with you. We use your data to request feedback, contact you, develop practical support, and notify you about our professional services.",
-"additionalText": [
-  "We may likewise impart Personal Information to outside parties assuming we have a decent faith conviction that entrance, use, safeguarding, or disclosure of the data is reasonably essential to meet any lawful material cycle or enforceable regulatory solicitation; to explore possible violations of legal or contractual obligations; address fraud, security or technical concerns; or to protect against harm to the rights, property, or safety of our clients or the public as required or allowed by law.",
-  "In the event we go through a sale like a merger, acquisition by another company, or sale of all or a part of our assets, your Personal Information may be shared with the other party to the transaction as necessary to pursue the sale and under an obligation of privacy. Your Personal Information may be among the assets transferred when the business is completed. You acknowledge and authorize that such disclosure and transfers may occur and are permitted by this Privacy Policy. We will use reasonable efforts to require that the transferee consistently uses Personal Information in accordance with this Privacy Policy."
-]
-},
-{
-"subheading": "Non-Personal Data",
-"text": "We analyze the Non-Personal information of our users to keep an eye on the latest fashion. In this way, we can personalize the user experience reliably and enhance our services. According to this Privacy Policy, we are not limited in any way to use or pass on Non-Personal Data, and we have a right to use and share such Non-Personal Data with third parties, our advertisers, and partners at our will."
-},
-{
-  "subheading": "How We Secure Data",
-  "text": "We secure your data from an unofficial approach with the help of reasonable and standard safety measures, including physical, administrative, and technical protection. However, these safety measures do not ensure that your data will not be disclosed, altered, accessed, or destroyed by servers, as any website, network, or communication in the digital world is not safe. You are aware of these risks and admit to understanding them to avail of our services. We will inform you about any unlikely information violations following the relevant rules and regulations."
-},
-{
-  "subheading": "Your Personal Data and Your Rights Regarding Its Use",
-  "text": "You can back off any promotional connection by unsubscribing through the information provided in each email. You can also email us and express that you do not want to receive promotional emails from us, and this is your right to stop us from reaching you for promotional or marketing purposes. Note that if you do not unsubscribe or email us about preventing marketing preferences, our Company may keep sending administrative emails, including promotional emails, Privacy Policy updates, etc."
-},
-{
-  "subheading": "Links To More Sites",
-  "text": "The Site might contain connections to outsider material, including different sites. Notwithstanding, we are not liable for the security rehearses utilized by those sites or the information or content they contain. This Privacy Policy applies particularly to data gathered through the Site and the Services. Accordingly, this Privacy Policy doesn’t make a difference to your utilization of an outsider site by choosing a connection on our Site or through our Services. To the degree that you access or utilize the Services through or on one more place or application, then, at that point, the security strategy of that other Site or application will apply to your entrance or utilization of that site or application. We urge our clients to pursue the protection proclamations of different locations before utilizing them."
-}
+        {
+          "subheading": "Information We Gather",
+          "text": "We gather both “Personal” and “Non-Personal” data. Personal data include your name, phone number, resume, email, and other data, which we collect through your activities like signups, downloading content, applying to jobs through websites, etc."
+        },
+        {
+          "subheading": "Information We Collect Via Technology",
+          "text": "You do not need to submit your data while visiting our Site. However, to enhance the activity of our Site, we keep track of information that we get through our software application when you visit the website, the browser you use, the Site from which you come (referring URL), the device that you use, date and time data, and other routing data that is not connected to your data."
+        },
+        {
+          "text": "We keep track of this information using small text files or cookies, which possess unique identifiers or transparent pixel figures. We send cookies to a user’s browser and are stored in the user’s hard drive. We send cookies to a user’s computer to collect non-personal data, which helps us keep track of users’ preferences and choices while using our services.",
+          "additionalText": "The Company (the custom websites) may use both session and persistent cookies. Session cookies finish when you close your browser, while persistent cookies stay in your device even if you close the browser and you have to delete them manually.",          
+          "infotext": "We may use certain services to gather data about your use of websites like Facebook Insights, Google Analytics, LinkedIn Insight Tags, HubSpot Analytics, or other third-party assistance. The third party may collect specific data that include how often you visit our Site, what pages you like to see, and what other websites you visited before landing on our Site. We never combine the data collected from a third party with any other data collected from you. We collect this data to improve the quality of our website. A permanent cookie is stored on your computer to recognize you as a unique individual when you visit the Site. Only third-party service providers can use these cookies. They use cookies according to terms mentioned at:",
+          "list": [
+            "HubSpot Analytics",
+            "LinkedIn Insight Tags",
+            "Facebook Insights",
+            "Google Analytics"
+          ]
+        },
+        {
+          "subheading": "Information You Provide Us",
+          "text": "We collect information automatically through your browser when you visit our Site. In addition to this information, you have to make a personal profile to contact us via the website. Create a profile by inserting your email address or filling out a form. According to this Privacy Policy, you allow us to use, collect, and store your email and other data. We may collect data through emails or texts, proposals, or providing services."
+        },
+        {
+          "subheading": "Children’s Privacy",
+          "text": "The Services and our Site are not administered to anybody under 13. Our Site does not intentionally request or gather data from anybody under the age of 13. If we realize that we have supposed data without the permission of a guardian or parent, we delete that data as soon as possible. If you suspect that we have collected such data, reach us here.",
+          "additionalText": "The Custom Websites ensures both the high quality and high value of our development services. The things that set us apart are the well-reputation and high-quality assurance. We promote the culture of improving skills and service-providing methodologies. Every member of our team constantly works to maintain the quality standards of our company. Clients can trust and rely on our companies’ services to establish and grow their business in the industry."
+        },
+        {
+          "subheading": "How We Share And Utilize Data",
+          "subheading": "Personal Information",
+          "text": "As mentioned in the Privacy Policy, we do not rent, sell, or trade your data without your consent with any Third-party. We provide your data to independent vendors and contractors who use your data for business purposes, and in a way, we tell them. Such vendors and contractors offer their quality services to the Company and can be trusted. Personal data is used to connect and communicate with you. We use your data to request feedback, contact you, develop practical support, and notify you about our professional services.",
+          "additionalText": "We may likewise impart Personal Information to outside parties assuming we have a decent faith conviction that entrance, use, safeguarding, or disclosure of the data is reasonably essential to meet any lawful material cycle or enforceable regulatory solicitation; to explore possible violations of legal or contractual obligations; address fraud, security or technical concerns; or to protect against harm to the rights, property, or safety of our clients or the public as required or allowed by law.",
+         "infotext": "In the occasion we go through a deal like a consolidation, securing by another organization, or offer of all or a piece of our resources, your Personal Information might be imparted to the next party to the exchange as essential to seek after the sale and under an obligation or privacy. Your Personal Information might be among the resources moved when the business is finished. You recognize and approve that such revelation and moves might happen and are allowed by this Privacy Policy. We will utilize reasonable endeavors to necessitate that the transferee reliably uses Personal Information with this Privacy Policy."
+
+        },
+        {
+          "subheading": "Non-Personal Data",
+          "text": "We analyze the Non-Personal information of our users to keep an eye on the latest fashion. In this way, we can personalize the user experience reliably and enhance our services. According to this Privacy Policy, we are not limited in any way to use or pass on Non-Personal Data, and we have a right to use and share such Non-Personal Data with third parties, our advertisers, and partners at our will."
+        },
+        {
+          "subheading": "How We Secure Data",
+          "text": "We secure your data from an unofficial approach with the help of reasonable and standard safety measures, including physical, administrative, and technical protection. However, these safety measures do not ensure that your data will not be disclosed, altered, accessed, or destroyed by servers, as any website, network, or communication in the digital world is not safe. You are aware of these risks and admit to understanding them to avail of our services. We will inform you about any unlikely information violations following the relevant rules and regulations."
+        },
+        {
+          "subheading": "Your Personal Data and Your Rights Regarding Its Use",
+          "text": "You can back off any promotional connection by unsubscribing through the information provided in each email. You can also email us and express that you do not want to receive promotional emails from us, and this is your right to stop us from reaching you for promotional or marketing purposes. Note that if you do not unsubscribe or email us about preventing marketing preferences, our Company may keep sending administrative emails, including promotional emails, Privacy Policy updates, etc."
+        },
+        {
+          "subheading": "Links To More Sites",
+          "text": "The Site might contain connections to outsider material, including different sites. Notwithstanding, we are not liable for the security rehearses utilized by those sites or the information or content they contain. This Privacy Policy applies particularly to data gathered through the Site and the Services. Accordingly, this Privacy Policy doesn’t make a difference to your utilization of an outsider site by choosing a connection on our Site or through our Services. To the degree that you access or utilize the Services through or on one more place or application, then, at that point, the security strategy of that other Site or application will apply to your entrance or utilization of that site or application. We urge our clients to pursue the protection proclamations of different locations before utilizing them."
+        }
       ]
     }
   ]
