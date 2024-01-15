@@ -4,7 +4,7 @@
       "info": "<a href='/' className='text-blue-500 hover:text-blue-600'>The Custom Websites</a> is devoted to maintaining privacy insurance for its users. Our <strong>Privacy Policy</strong> is composed to support you in making mindful decisions while using <strong>The Custom Websites</strong> and help you understand our way of collecting, using, and safeguarding your information. By <a href='/https://www.linkedin.com/company/the-custom-websites/' className='text-blue-500 hover:text-blue-600'> connecting with us via LinkedIn</a> or any third party or by accessing our Site or availing of our services, you agree to our Privacy Policy and your permission to collect, use and store your personal information as per the Privacy Policy.",
       "description": [
         {
-          "subheading": "Information We Gather",
+          "heading": "Information We Gather",
           "text": "We gather both “Personal” and “Non-Personal” data. Personal data include your name, phone number, resume, email, and other data, which we collect through your activities like signups, downloading content, applying to jobs through websites, etc."
         },
         {
@@ -31,7 +31,7 @@
           "additionalText": "The Custom Websites ensures both the high quality and high value of our development services. The things that set us apart are the well-reputation and high-quality assurance. We promote the culture of improving skills and service-providing methodologies. Every member of our team constantly works to maintain the quality standards of our company. Clients can trust and rely on our companies’ services to establish and grow their business in the industry."
         },
         {
-          "subheading": "How We Share And Utilize Data",
+          "heading": "How We Share And Utilize Data",
           "subheading": "Personal Information",
           "text": "As mentioned in the Privacy Policy, we do not rent, sell, or trade your data without your consent with any Third-party. We provide your data to independent vendors and contractors who use your data for business purposes, and in a way, we tell them. Such vendors and contractors offer their quality services to the Company and can be trusted. Personal data is used to connect and communicate with you. We use your data to request feedback, contact you, develop practical support, and notify you about our professional services.",
           "additionalText": "We may likewise impart Personal Information to outside parties assuming we have a decent faith conviction that entrance, use, safeguarding, or disclosure of the data is reasonably essential to meet any lawful material cycle or enforceable regulatory solicitation; to explore possible violations of legal or contractual obligations; address fraud, security or technical concerns; or to protect against harm to the rights, property, or safety of our clients or the public as required or allowed by law.",
